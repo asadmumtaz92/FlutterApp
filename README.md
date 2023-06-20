@@ -21,6 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 
 Download Flutter SDK from Web:
 Link: https://docs.flutter.dev/get-started/install/macos
+
 Toturial Link: https://www.youtube.com/watch?v=jqxz7QvdWk8&list=PLjVLYmrlmjGfGLShoW0vVX_tcyT8u1Y3E&index=2&ab_channel=WsCubeTech
 
 1. Download the following installation bundle to get the latest stable release of the Flutter SDK:
