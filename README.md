@@ -1,4 +1,4 @@
-# ceo
+## ceo
 
 A new Flutter project.
 
@@ -16,11 +16,12 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-FLUTTER Development
+**FLUTTER Development******
 
 
 Download Flutter SDK from Web:
 Link: https://docs.flutter.dev/get-started/install/macos
+Toturial Link: https://www.youtube.com/watch?v=jqxz7QvdWk8&list=PLjVLYmrlmjGfGLShoW0vVX_tcyT8u1Y3E&index=2&ab_channel=WsCubeTech
 
 1. Download the following installation bundle to get the latest stable release of the Flutter SDK:
 
@@ -46,14 +47,17 @@ Link: https://docs.flutter.dev/get-started/install/macos
 	Open Terminal and go inside sdk folder then paste & run bellow command:
 	 export PATH="$PATH:`pwd`/flutter/bin"
 
+
 4. Check Flutter install in System
 	Open terminal and run command: flutter
+
 
 5. For check required tools for Flutter development like Xcode & Android Studio
 	Run this command: flutter doctor
 
 
-CREATE NEW PROJECT IN FLUTTER
+
+**CREATE NEW PROJECT IN FLUTTER******
 
 1. flutter create projectName
 2.  
