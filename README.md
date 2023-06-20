@@ -43,6 +43,8 @@ Toturial Link: https://www.youtube.com/watch?v=jqxz7QvdWk8&list=PLjVLYmrlmjGfGLS
 	2. Open Terminal and go inside sdk folder then paste & run bellow command
 		unzip ~/Downloads/flutter_macos_arm64_3.10.5-stable.zip
 
+	<img width="754" alt="Pasted Graphic" src="https://github.com/asadmumtaz92/FlutterApp/assets/44339021/ebe84897-3dad-41ed-b54c-0b17652ead59">
+
 
 3. Add the flutter tool to your path:
 	Open Terminal and go inside sdk folder then paste & run bellow command:
